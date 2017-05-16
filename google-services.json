@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "452318628252",
+    "firebase_url": "https://comschool-40b13.firebaseio.com",
+    "project_id": "comschool-40b13",
+    "storage_bucket": "comschool-40b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452318628252:android:1ee2f13a2e8d06a8",
+        "android_client_info": {
+          "package_name": "br.com.pontocode.comschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452318628252-drar25vobtccc20tcvateclrcpi1sbhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAgeMx-CEcgTX-WmKj1Ihgh1LZXsVkUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
